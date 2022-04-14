@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhimichanga
 - 👀 I’m interested in software languages and data analysis
-- 🌱 I’m currently python and other things
+- 🌱 I’m currently learning python and other things
 - 💞️ I’m looking to collaborate on an app for the portfolio
 
 <!---
